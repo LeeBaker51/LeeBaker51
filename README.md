@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @LeeBaker51
+- 👀 I’m interested in ...
+- I have a site using classic asp
+- 🌱 I’m currently learning ...
+- new lanugages to recode this for future development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- lee@baker-bunch.com
+
+<!---
+LeeBaker51/LeeBaker51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
